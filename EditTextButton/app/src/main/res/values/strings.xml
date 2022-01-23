@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EditText&amp;Button</string>
+    <string name="in_button">아이디를 입력하세요…</string>
+    <string name="button">버튼</string>
+</resources>
